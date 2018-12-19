@@ -220,7 +220,7 @@ To configure OwnCloud, go to the following URL:
 *_http://<Your-Server-Ip-address>/owncloud_*
 
 
-![owncloudsetup1](//img/ownCloud_wizard_setup_1.jpg)
+![owncloudsetup1]( jekyll_from_git/img/OwnCloud_wizard_setup_1.jpg)(//img/ownCloud_wizard_setup_1.jpg)
 
 ![owncloudsetup2](//img/ownCloud_wizard_setup_2.jpg)
 
