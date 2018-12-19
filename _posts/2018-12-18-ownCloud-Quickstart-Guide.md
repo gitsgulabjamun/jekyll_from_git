@@ -220,9 +220,9 @@ To configure OwnCloud, go to the following URL:
 *_http://<Your-Server-Ip-address>/owncloud_*
 
 
-![owncloudsetup1]( jekyll_from_git/img/OwnCloud_wizard_setup_1.jpg)(//img/ownCloud_wizard_setup_1.jpg)
+![owncloudsetup1](//jekyll_from_git/img/OwnCloud_wizard_setup_1.jpg)
 
-![owncloudsetup2](//img/ownCloud_wizard_setup_2.jpg)
+![owncloudsetup2](//jekyll_from_git/img/OwnCloud_wizard_setup_2.jpg)
 
 Provide your user name, password, database information and the ownCloud folder details. Once you provide all the required details, Click on “Finish Setup”.
 
@@ -232,7 +232,7 @@ The ownCloud Logon Page appears:
 
 Enter the username and password and the ownCloud dashboard appears:
 
-![owncloudsetup4](//img/ownCloud_wizard_setup_4.jpg)
+![owncloudsetup4](//jekyll_from_git/img/OwnCloud_wizard_setup_3.jpg)
 
 The ownCloud is installed successfully on your system and you can start sharing files.
 
