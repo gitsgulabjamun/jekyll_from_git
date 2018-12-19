@@ -4,6 +4,7 @@ title: About
 ---
 
 This guide will help you accomplish the following:
+
 -Install ownCloud
 
 -Configure ownCloud
