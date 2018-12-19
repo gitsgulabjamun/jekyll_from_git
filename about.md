@@ -3,13 +3,9 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+This guide will help you accomplish the following:
+-Install ownCloud
+-Configure ownCloud
+-Connect to the cloud with a client
 
-Reasons:
-- its great.
-- its a test.
 
-## Other thoughts
-
-This is great.
