@@ -1,1 +1,1 @@
-# jekyll_from_git
+# Quick start
